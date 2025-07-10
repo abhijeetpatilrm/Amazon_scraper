@@ -1,1 +1,1 @@
-Amazon Scraper API is a Node.js app that scrapes Amazon for product details, reviews, offers, and search results. Built with Express.js and request-promise, it uses ScraperAPI for seamless data extraction. Easily deployable on cloud platforms, this API enables efficient e-commerce data retrieval.
+
